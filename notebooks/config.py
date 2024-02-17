@@ -11,8 +11,8 @@ warnings.filterwarnings("ignore", category=DtypeWarning)
 # Global path of the raw darknet traces
 ###############################################################################
 #DATA  = f'idarkvec-toit/'
-DATA = '/share/smartdata/huawei/darknet_graph/PaperExtension'
-TRACES  = f'{DATA}/raw_traces'
+DATA = '/mnt/c/Users/cassi/OneDrive/Desktop/Reumes/CAIDA/iDarkVec/Repo/darkvec/coNEXT'
+TRACES  = f'{DATA}/raw'
 MODELS = f'{DATA}/models'
 GRAPHS = f'{DATA}/graphs'
 DATASETS = f'{DATA}/interim'
